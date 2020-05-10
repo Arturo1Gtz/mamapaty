@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mamapaty/static/css/main.b2490a38.chunk.css",
+    "main.js": "/mamapaty/static/js/main.6cf4aa52.chunk.js",
+    "main.js.map": "/mamapaty/static/js/main.6cf4aa52.chunk.js.map",
+    "runtime-main.js": "/mamapaty/static/js/runtime-main.aa572097.js",
+    "runtime-main.js.map": "/mamapaty/static/js/runtime-main.aa572097.js.map",
+    "static/js/2.1101ddf2.chunk.js": "/mamapaty/static/js/2.1101ddf2.chunk.js",
+    "static/js/2.1101ddf2.chunk.js.map": "/mamapaty/static/js/2.1101ddf2.chunk.js.map",
+    "index.html": "/mamapaty/index.html",
+    "precache-manifest.bf52ea2ede6a24282852a7ea533bd76a.js": "/mamapaty/precache-manifest.bf52ea2ede6a24282852a7ea533bd76a.js",
+    "service-worker.js": "/mamapaty/service-worker.js",
+    "static/css/main.b2490a38.chunk.css.map": "/mamapaty/static/css/main.b2490a38.chunk.css.map",
+    "static/js/2.1101ddf2.chunk.js.LICENSE.txt": "/mamapaty/static/js/2.1101ddf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa572097.js",
+    "static/js/2.1101ddf2.chunk.js",
+    "static/css/main.b2490a38.chunk.css",
+    "static/js/main.6cf4aa52.chunk.js"
+  ]
+}
