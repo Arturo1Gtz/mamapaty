@@ -1,0 +1,13 @@
+.big1{
+  color:#fc9d9a;
+    font-size: 300%;
+}
+
+.especial{
+    transition: color 0.25s ease-out;
+
+  }
+.especial:hover{
+    cursor: pointer;
+    color: #f9bbad;
+  }
