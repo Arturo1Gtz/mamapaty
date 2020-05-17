@@ -1,0 +1,27 @@
+.header{
+    height: 10vw;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 30px;
+    margin: 0px;
+    background-color: rgba(0,255,0,0);
+    
+}
+.logo{
+    width:70px;
+    height: 5vw;
+    /* padding: 0px 0px 0px 25px; */
+    align-content: center;
+
+}
+.options{
+    display: flex;
+     align-items: center;
+    justify-content: flex-end;
+
+}
+.option{
+    font-size: 150%;
+}

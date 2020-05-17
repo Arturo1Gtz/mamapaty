@@ -5,7 +5,7 @@ export const PageFive = (props) =>{
     return <div className="Page big5">
                 <h2  className="animate__animated animate__fadeIn">
                 Tú eres mi mayor tesoro, mi guía y mi  todo. 
-                Gracias por ser mi <span className="especial five" onClick={props.cambioFondo}>madre.</span> 
+                Gracias por ser mi <span className="especial five" onClick={()=>props.history.push('/mamapaty')}>madre.</span> 
                 </h2>
             </div>
 };
