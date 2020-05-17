@@ -25,3 +25,6 @@
 .option{
     font-size: 150%;
 }
+.option:hover{
+    transform: scale(1.1);
+}

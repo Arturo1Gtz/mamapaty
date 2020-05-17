@@ -11,7 +11,7 @@ const Header = (props)=>(
             <Logo className='logo'></Logo>
         </Link>
     <div className='options'>
-        <Link className='option' to='signIn'>SIGN IN</Link>
+        <h1 className='option' onClick={props.signIn}>SIGN IN</h1>
     </div>
     
     </div>

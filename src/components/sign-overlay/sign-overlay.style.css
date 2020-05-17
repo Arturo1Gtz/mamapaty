@@ -1,0 +1,23 @@
+.sign-overlay{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: rgba(0,0,0,0.6);
+   
+}
+.formularios{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+.close-button{
+    color:white;
+    position: relative;
+    left: 35%;
+    bottom: 25%;
+}
+.close-button:hover{
+    cursor: pointer;
+}
